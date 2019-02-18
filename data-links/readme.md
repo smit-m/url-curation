@@ -1,2 +1,2 @@
-- [City-Data](http://www.city-data.com/)
+- [City-Data](http://www.city-data.com/) _(data of US states by cities)_
 - 
