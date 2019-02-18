@@ -1,1 +1,1 @@
-Catan Map Randomizer[http://jkirschner.github.io/catan-randomizer/]
+1. [Catan Map Randomizer](http://jkirschner.github.io/catan-randomizer/)
