@@ -1,0 +1,4 @@
+- Medium series:
+  - [Part 1: SQL](https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433)
+  - [Part 2: Stats](https://towardsdatascience.com/how-to-ace-data-science-interviews-statistics-f3d363ad47b)
+  - [Part 3: R/Python](https://towardsdatascience.com/how-to-ace-data-science-interviews-r-python-3a49982000de)
