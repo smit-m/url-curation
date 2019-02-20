@@ -1,1 +1,2 @@
 - [ML glossary by Google](https://developers.google.com/machine-learning/glossary/)
+- [Setting up Python Environment for ML](https://www.kdnuggets.com/2019/02/setup-python-environment-machine-learning.html)
