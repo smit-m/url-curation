@@ -1,2 +1,1 @@
 - [Understanding p-values](https://hackernoon.com/explaining-p-values-with-puppies-af63d68005d0)
-- 
