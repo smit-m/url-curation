@@ -1,2 +1,2 @@
 - [Understanding p-values](https://hackernoon.com/explaining-p-values-with-puppies-af63d68005d0)
-- [Book - Statistical Thinking for the 21st Century](http://statsthinking21.org/)
+- [Statistical Thinking for the 21st Century](http://statsthinking21.org/) _(Book)_
