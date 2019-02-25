@@ -1,2 +1,2 @@
 - [City-Data](http://www.city-data.com/) _(data of US states by cities)_
-- 
+- [Open Source DS datasets repo](https://github.com/datasciencemasters/data)
