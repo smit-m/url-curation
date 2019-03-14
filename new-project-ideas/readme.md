@@ -1,3 +1,3 @@
 - [Content-based Reco System](https://github.com/thomhopmans/themarketingtechnologist/tree/master/5_content_based_recommender)
 - https://api.topos.ai/v1/public/region/us-zipcode/10009/similarities 
-- https://medium.com/topos-ai/introducing-the-topos-similarity-index-and-x-everywhere-82fcec1fb367
+- [Using Topos](https://medium.com/topos-ai/introducing-the-topos-similarity-index-and-x-everywhere-82fcec1fb367)
