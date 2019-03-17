@@ -1,2 +1,3 @@
 - [Laeflet maps using Python, JSON data](https://www.dataquest.io/blog/python-json-tutorial/)
 - [Visualizing ML Models with LIME](http://uc-r.github.io/lime)
+- [R Package: officeR](https://github.com/davidgohel/officer)
