@@ -1,5 +1,1 @@
-# List of contents
-
-- Data Science/Machine Learning
-- Web Scraping
-- Fun
+Just a curated list of urls for personal use
