@@ -1,3 +1,4 @@
 - [Understanding p-values](https://hackernoon.com/explaining-p-values-with-puppies-af63d68005d0)
 - [Statistical Thinking for the 21st Century](http://statsthinking21.org/) _(Book)_
 - [Probability Cheat Sheet](https://github.com/wzchen/probability_cheatsheet)
+- [The 5 Basic Statistics Concepts](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
