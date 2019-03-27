@@ -1,0 +1,1 @@
+- [Word2Vec illustration](https://jalammar.github.io/illustrated-word2vec/)
