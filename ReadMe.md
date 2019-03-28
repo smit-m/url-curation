@@ -1,2 +1,2 @@
 Just a curated list of urls for personal use  
-_P.S. - Full credit goes to the author of the article/code/visual/product_
+_P.S. - I take no credit for any of the work/article/idea mentioned on any of the urls. Full credit goes to the author of the article/code/visual/product_
