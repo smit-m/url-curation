@@ -1,1 +1,2 @@
 - [Word2Vec illustrated](https://jalammar.github.io/illustrated-word2vec/)
+- [Sentiment Analysis](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/)
