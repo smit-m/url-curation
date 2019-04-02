@@ -2,3 +2,4 @@
 - [Setting up Python Environment for ML](https://www.kdnuggets.com/2019/02/setup-python-environment-machine-learning.html)
 - [A/B Testing](https://www.business-science.io/business/2019/03/11/ab-testing-machine-learning.html)
 - [Feature Engineering Ebook](http://www.feat.engineering/index.html)
+- [A/B Testing w/ Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)
