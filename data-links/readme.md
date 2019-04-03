@@ -1,3 +1,4 @@
 - [City-Data](http://www.city-data.com/) _(data of US states by cities)_
 - [Open Source DS datasets repo](https://github.com/datasciencemasters/data)
 - [Enron Emails](http://www.cs.cmu.edu/~enron/) _(useful for text analytics)_
+- [Awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
