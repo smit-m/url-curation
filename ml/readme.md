@@ -3,3 +3,4 @@
 - [A/B Testing](https://www.business-science.io/business/2019/03/11/ab-testing-machine-learning.html)
 - [Feature Engineering Ebook](http://www.feat.engineering/index.html)
 - [A/B Testing w/ Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python) _(DataCamp Course)_
+- [Building reco engines](https://medium.com/@james_aka_yale/the-4-recommendation-engines-that-can-predict-your-movie-tastes-bbec857b8223)
