@@ -1,2 +1,3 @@
 - [Word2Vec illustrated](https://jalammar.github.io/illustrated-word2vec/)
 - [Sentiment Analysis](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/)
+- [Conversational NLP w/ datasets](https://medium.com/@matthen/a-repository-of-conversational-datasets-95e5ff17b6fb)
