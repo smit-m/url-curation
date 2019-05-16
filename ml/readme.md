@@ -4,3 +4,4 @@
 - [Feature Engineering Ebook](http://www.feat.engineering/index.html)
 - [A/B Testing w/ Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python) _(DataCamp Course)_
 - [Building reco engines](https://medium.com/@james_aka_yale/the-4-recommendation-engines-that-can-predict-your-movie-tastes-bbec857b8223)
+- [k-means](https://www.kdnuggets.com/2019/05/guide-k-means-clustering-algorithm.html)
