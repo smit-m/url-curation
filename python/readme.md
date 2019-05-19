@@ -1,2 +1,3 @@
 - [Coding in Python](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3) _- Tutorial_
 - [Dedupe package](dedupe.io)
+- [Python 3](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/?)
