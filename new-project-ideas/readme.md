@@ -3,3 +3,4 @@
 - [Using Topos Similarity Index](https://medium.com/topos-ai/introducing-the-topos-similarity-index-and-x-everywhere-82fcec1fb367)
 - https://www.themarketingtechnologist.co/building-a-recommendation-engine-for-geek-setting-up-the-prerequisites-13/
 - https://realpython.com/intermediate-python-project-ideas/
+- [24 DS projects](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
