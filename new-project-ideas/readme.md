@@ -5,3 +5,4 @@
 - https://realpython.com/intermediate-python-project-ideas/
 - [24 DS projects](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 - Get song lyrics and compare using Dice Coeff for similarity
+- 
