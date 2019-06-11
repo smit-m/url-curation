@@ -4,4 +4,5 @@
   - [Part 3: R/Python](https://towardsdatascience.com/how-to-ace-data-science-interviews-r-python-3a49982000de)
 - Analytics Vidhya series:
   - [40 questions on ML](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
-  
+- kdnuggets articles:
+  - [21 DS questions](https://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
