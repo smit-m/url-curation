@@ -1,5 +1,5 @@
 - [Word2Vec illustrated](https://jalammar.github.io/illustrated-word2vec/)
 - [Sentiment Analysis](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/)
 - [Conversational NLP w/ datasets](https://medium.com/@matthen/a-repository-of-conversational-datasets-95e5ff17b6fb)
-- [Intro to LDA w/ python code](https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/)
-- [Latent Semantic Analysis (using Python)](https://medium.com/analytics-vidhya/text-mining-101-a-stepwise-introduction-to-topic-modeling-using-latent-semantic-analysis-using-add9c905efd9)
+- [Intro to LDA w/ python code](https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/) _(AV article)_
+- [Latent Semantic Analysis (using Python)](https://medium.com/analytics-vidhya/text-mining-101-a-stepwise-introduction-to-topic-modeling-using-latent-semantic-analysis-using-add9c905efd9) _(Medium article)_
