@@ -2,4 +2,4 @@
 - [Statistical Thinking for the 21st Century](http://statsthinking21.org/) _(Book)_
 - [Probability Cheat Sheet](https://github.com/wzchen/probability_cheatsheet)
 - [The 5 Basic Statistics Concepts](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
-
+- [How to Set up Hypotheses](https://towardsdatascience.com/how-to-set-up-hypotheses-c59d8f2d6b81?sk=939016f40dc92fac0e332415bae695a6)
