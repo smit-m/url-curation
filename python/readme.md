@@ -2,3 +2,4 @@
 - [Dedupe package](dedupe.io)
 - [Python 3](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/?)
 - [Learn Intermediate level Python](https://www.kdnuggets.com/2019/06/7-steps-mastering-intermediate-machine-learning-python.html)
+- [Speed up your data analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b)
