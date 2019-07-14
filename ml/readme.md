@@ -7,4 +7,6 @@
 - [k-Means Clustering](https://www.kdnuggets.com/2019/05/guide-k-means-clustering-algorithm.html) _(kdnuggets article)_
 - [List of Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems) _(GitHub repo)_
 - [PCA](https://medium.com/free-code-camp/an-overview-of-principal-component-analysis-6340e3bc4073)
+- [Brand Lift Study](https://medium.com/operam-com/random-forest-and-ensemble-methods-for-youtube-brand-lift-forecasting-87d6a69fb983)
+
 
