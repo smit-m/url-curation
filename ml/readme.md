@@ -9,4 +9,5 @@
 - [PCA](https://medium.com/free-code-camp/an-overview-of-principal-component-analysis-6340e3bc4073)
 - [Brand Lift Study](https://medium.com/operam-com/random-forest-and-ensemble-methods-for-youtube-brand-lift-forecasting-87d6a69fb983)
 - [101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://blog.datasciencedojo.com/machine-learning-algorithms/)
+- [NN from scratch](https://medium.com/towards-artificial-intelligence/nothing-but-numpy-understanding-creating-neural-networks-with-computational-graphs-from-scratch-6299901091b0)
 
